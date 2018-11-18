@@ -1,0 +1,8 @@
+# References
+> 
+* https://stat.ethz.ch/pipermail/r-help/2010-June/242004.html
+* https://stackoverflow.com/questions/12866189/calculating-the-outliers-in-r
+* https://github.com/inageorgescu/Explore-and-Summarize-Data-White-Wines/blob/master/P4_Udacity_EDA_White_wine.rmd
+* https://datascienceplus.com/identify-describe-plot-and-removing-the-outliers-from-the-dataset/
+* https://stackoverflow.com/questions/24776200/ggplot-replace-count-with-percentage-in-geom-bar/24777521
+* https://stackoverflow.com/questions/45411729/r-function-cor-test-how-is-the-p-value-calculated-for-pearson-correlation
